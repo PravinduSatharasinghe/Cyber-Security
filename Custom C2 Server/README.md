@@ -1,1 +1,1 @@
-
+This sub dirrectory contains server and agetn files for maintining a custom c2 server which is vastly applied in red team operations in cyber security. Here both configuratioins from server and agent side have been done in a way they are scalable, flexible, stealth and with modularity. This work can be further enhanced to create more stealth and to do deep down operations in exploted machines, for an instance like file system data exfiltration without detection and internal disk memeory operations..
